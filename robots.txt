@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-rxe729.pixiegoogletest-wrd2o9j0.xyz/sitemap.xml
